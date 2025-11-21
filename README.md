@@ -1,3 +1,5 @@
+% IMPORTANT: set WRITE_KEY, READ_KEY and CHANNEL_ID before running.
+
 # Smart Air Quality and Pollution Alert System
 A simulation-based IoT project that models air pollution levels and uploads real-time data to the ThingSpeak cloud using MATLAB. The system generates realistic PM2.5, PM10, and CO₂ values, calculates the Air Quality Index (AQI), predicts future AQI trends, and triggers automated alerts when pollution exceeds safe thresholds.
 
@@ -90,7 +92,13 @@ The project showcases how IoT-based monitoring solutions can help in smart citie
 This project is released under the **MIT License**.
 
 ---
+## HOW IT WORKS
+ThingSpeak Channel: https://thingspeak.com/channels/3175283
+----------------
+## NOTE
+NOTE: Do not commit your Write/Read API keys to this repo. Replace keys in the script before running.
+--------------
 
 ## 👤 Author
-Created by (Your Name)  
+Created by (GOWTHAM R)  
 Based on MATLAB, IoT, and environmental data simulation concepts.
