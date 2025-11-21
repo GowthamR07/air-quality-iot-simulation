@@ -98,6 +98,10 @@ ThingSpeak Channel: https://thingspeak.com/channels/3175283
 ## NOTE
 NOTE: Do not commit your Write/Read API keys to this repo. Replace keys in the script before running.
 --------------
+##OUTPUTS
+<img width="1196" height="866" alt="Screenshot 2025-11-21 153829" src="https://github.com/user-attachments/assets/0abbef7d-f50f-48d5-8ba4-56cdfe56f458" />
+-------------
+
 
 ## 👤 Author
 Created by (GOWTHAM R)  
